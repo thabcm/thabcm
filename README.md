@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Thalita Barros and I am a student of Computer Science. 
-I am currently learning to be a front-end developer.
+My name is Thalita Barros and I am a student of Computer Science. \n
+I am currently learning to be a front-end developer. \n
 Currently focused on: React 😄
 <!--
 **thabcm/thabcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
