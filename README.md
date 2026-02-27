@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- My name is Thalita Barros and I'm a front-end developer from Brazil.
-- I'm currently improving my skills as a front-end dev.
-- Currently focused on: Angular and React 😄
+- My name is Thalita Barros and I'm a QA junior from Brazil.
+- I used to be a front-end dev.
+- I'm currently improving my skills as a quality analyst.
+- Currently focused on: Cypress 😄
 <!--
 **thabcm/thabcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
