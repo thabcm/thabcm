@@ -3,7 +3,7 @@
 - My name is Thalita Barros and I'm a QA junior from Brazil.
 - I used to be a front-end dev.
 - I'm currently improving my skills as a quality analyst.
-- Currently focused on: Cypress 😄
+- Currently focused on: Cypress, Playwright and Robot 😄
 <!--
 **thabcm/thabcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
