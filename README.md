@@ -1,20 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Thalita 👋
 
-- My name is Thalita Barros and I'm a QA junior from Brazil.
-- I used to be a front-end dev.
-- I'm currently improving my skills as a quality analyst.
-- Currently focused on: Cypress, Playwright and Robot 😄
-<!--
-**thabcm/thabcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Quality Assurance professional with a strong foundational background of over 3 years as a Front-End Developer. I leverage my development experience to build highly efficient, reliable, and clean automated test suites.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** B.S. in Computer Science | Postgraduate in Project Management & Agile Methodologies.
+- 🚀 **Current Focus:** End-to-End automation frameworks, API testing, and shifting quality left in the development lifecycle.
+- ⚙️ **Agile Culture:** Experienced working within Scrum and Kanban environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tech Stack & Tooling
+**Quality Assurance & Testing**
+- Cypress | Playwright | API Testing | Functional & Regression Testing
+**Development**
+- Git | JavaScript (ES6+) | TypeScript | Angular | HTML5 & CSS3
+**Methodologies & Management**
+- Scrum | Kanban | Jira | Azure Devops
+
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/thabcm/)
+- 📧 [Email](mailto:thalitabcmelo@gmail.com)
