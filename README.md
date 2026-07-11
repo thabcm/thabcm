@@ -9,7 +9,7 @@ I am a Software Quality Assurance professional with a strong foundational backgr
 ---
 ### 🛠️ Tech Stack & Tooling
 **Quality Assurance & Testing** 
-- Cypress | Playwright | API Testing | Functional & Regression Testing
+- Cypress | Playwright | Robot Framework | BDD | API Testing | Postman | Functional & Regression Testing
 
 **Development, Methodologies & Management**
 - Git | JS/TS | Scrum | Kanban | Jira | Azure Devops
